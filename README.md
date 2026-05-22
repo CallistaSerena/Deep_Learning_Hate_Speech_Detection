@@ -75,6 +75,7 @@ Binary Classification
 
 # Oversampling
 To balance the dataset, synonym replacement is used to add data for the minority class
+
 Final balanced training data distribution:
 HS: **6086 data**
 Non-HS: **6086 data**
